@@ -1,4 +1,4 @@
-local keyVerified = false
+local keyVerified = true
 local TweenService = game:GetService("TweenService")
 
 local CORRECT_KEY = "MatchaTeaOnTop?"
